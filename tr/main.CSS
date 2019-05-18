@@ -33,7 +33,7 @@
 .nav {
 	height: 69%;
 	width: 10%;
-	background: url(img/1.png) no-repeat;
+	background: url(/img/1.png) no-repeat;
 	background-size: contain;
 	float:right;
 	position:relative;
