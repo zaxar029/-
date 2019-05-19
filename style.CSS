@@ -1,4 +1,5 @@
-﻿body {
+@media screen and (min-width: 600px) {
+body {
 	font: 14pt sans-serif;
 	text-align: justify;
 	background: url(http://winallos.com/uploads/posts/2014-12/1417433816_kosmos-planeta-pace-tar.jpg);
@@ -70,4 +71,5 @@
 }
 a {
 	 text-decoration: none;
+}
 }
