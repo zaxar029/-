@@ -1,3 +1,4 @@
+@media screen {
 body {
 	font: 14pt sans-serif;
 	text-align: justify;
@@ -72,4 +73,5 @@ body {
 }
 a {
 	 text-decoration: none;
+}
 }
