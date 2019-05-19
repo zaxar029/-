@@ -48,6 +48,7 @@ body {
 	width: 97%;
 }
 .n2 {
+	white-space: normal
 	border: 4px ridge;
 	position:relative;
 	top: 4%;
