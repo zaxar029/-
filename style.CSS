@@ -41,12 +41,10 @@ body {
 	right: 20%;
 }
 .n1 {
-	font: 14pt sans-serif;
 	border: 4px ridge;
 	position:relative;
 	top: 4%;
 	height: 5%;
-	width: 97%;
 }
 .n2 {
 	border: 4px ridge;
