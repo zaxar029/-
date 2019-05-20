@@ -51,7 +51,6 @@ body {
 	position:relative;
 	top: 4%;
 	height: 7%;
-	width: 97%;
 	text-align:left;
 }
 .n3 {
@@ -59,14 +58,12 @@ body {
 	position:relative;
 	top: 4%;
 	height: 5%;
-	width: 97%;
 }
 .n4 {
 	border: 4px ridge;
 	position:relative;
 	top: 4%;
 	height: 5%;
-	width: 97%;
 }
 a {
 	 text-decoration: none;
