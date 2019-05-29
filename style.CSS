@@ -1,9 +1,4 @@
-@media screen and (min-width: 800px) {
-    .adaptive-image:after { content: url('image-800.jpg'); }
-}
-@media screen and (min-width: 1024px) {
-    .adaptive-image:after { content: url('image-1024.jpg'); }
-}
+@media (width: 1024px) {
 body {
 	font: 14pt sans-serif;
 	text-align: justify;
