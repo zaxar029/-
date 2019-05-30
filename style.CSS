@@ -10,7 +10,6 @@ body {
 .block{
 	position:relative;
 	top: 30%;
-        width: 40%
 }
 .nimg {
 	padding-bottom:30px;
@@ -34,6 +33,7 @@ body {
 }
 .nav {
 	height: 69%;
+        width: 10%;
 	background: url(img/1.png) no-repeat;
 	background-size: contain;
 	float:right;
