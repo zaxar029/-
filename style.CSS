@@ -10,6 +10,7 @@ body {
 .block{
 	position:relative;
 	top: 30%;
+        width: 60%
 }
 .nimg {
 	padding-bottom:30px;
